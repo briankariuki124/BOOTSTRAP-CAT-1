@@ -1,0 +1,75 @@
+    /*CSS for CAT B*/
+.B{
+    background-color: greenyellow;
+    background-image: url("resources/cardboards.jpg");
+    background-size: cover;
+}
+.a{
+    background-color: unset;
+}
+.c{
+    margin-top: 20vh;
+}
+.d{
+    font-size: 50px;
+    color: #ffeeba;
+    margin-left: 20px;
+}
+.enigma{
+    color: white;
+}
+    /*CSS for CAT C*/
+.C{
+    background-size: cover;
+    background-image: url("resources/wall.jpg");
+}
+.C_a{
+    background: rgba(0, 0, 0, 0.4);
+    height: 100vh;
+    padding-top: 20vh;
+    padding-left: 140px;
+}
+C_b{
+    height: 100vh;
+}
+.form{
+    width: 80%;
+    height: 40vh;
+    margin: auto;
+    margin-top: 20vh;
+    background-color: white;
+    opacity: 0.7;
+}
+.form_1{
+    padding: 30px;
+}
+.x{
+    color: white;
+    font-size: 40px;
+}
+.y{
+    color: white;
+    font-size: 60px;
+}
+    /*CSS for CAT A*/
+.A{
+    background-image: url("resources/marbles.jpg");
+    background-size: cover;
+}
+.g{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: unset;
+}
+.h{
+    text-align: center;
+    color: white;
+}
+.i{
+    margin-top: 15vh;
+}
+.lorem{
+    color: black;
+}
+
